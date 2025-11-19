@@ -1,4 +1,4 @@
-Mental Health in Tech - Analysis & Modeling
+Mental Health in Tech - Analysis & Modeling using python
 
 Problem Statement
 Identify factors influencing whether a tech professional develops mental health issues and seeks treatment.
